@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aleksandar
 
-<!--
-**perosevica/perosevica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build modern, responsive, and user-friendly web applications using React and JavaScript.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** React, JavaScript, HTML5, CSS3, Tailwind CSS
+
+**APIs & Data:** REST APIs
+
+**Tools:** Git, GitHub, VS Code, Vite
+
+## Projects
+
+- React eCommerce App
+- BeFit – Workout Tracking App 
+- Angular ToDo App - Mini Project
+- Vue Booking App - Mini Project
+
+## Contact
+
+- Email: perosevica02@gmail.com
+- LinkedIn: /
